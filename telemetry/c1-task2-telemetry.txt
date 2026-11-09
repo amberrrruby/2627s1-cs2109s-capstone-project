@@ -1,0 +1,21 @@
+level=C1 The Heist
+seed=42
+expected_best_reward=-158
+win=True, lose=False, total_reward=-162.0
+
+LATEST AGENT INFO
+{'name': 'Task 2 image agent'}
+
+PER-TURN TELEMETRY
+Empty DataFrame
+Columns: []
+Index: []
+
+SUMMARY STATISTICS
+No per-turn telemetry was recorded.
+
+MEMORY AND CACHE SUMMARY
+No memory/cache telemetry was recorded.
+
+PERCEPTION SUMMARY
+No perception telemetry was recorded.
