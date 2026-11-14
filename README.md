@@ -227,16 +227,7 @@ The exported Markdown conversations currently available in
 - [`Reorder capstone notebook cells`](chat-history/2026-11-07-0823-reorder-capstone-notebook-cells.md)
 - [`Find where NOTES.md left off`](chat-history/2026-11-07-1347-find-where-notes-md-left-off.md)
 - [`Review the hidden boss-level work`](chat-history/2026-11-07-1943-review-notes-md-for-boss-level.md)
-
-The conversation used to prepare this README and perform the final compliance
-audit is still in progress and must be exported into `chat-history/` after the
-work is complete.
-
-These local Markdown exports make the development record readable in the
-archive, but they do not currently contain share links to the original
-conversations. To satisfy the policy literally, add a share link for each
-conversation when the product permits one. When a conversation cannot be
-shared by link, add screenshots that show the relevant prompts and responses.
+- [`Organize project documentation`](chat-history/2026-11-09-1119-organize-project-documentation.md)
 
 ### AI-assisted code and subsequent changes
 
@@ -257,12 +248,3 @@ versioned files under [`history/`](history/). The principal changes are:
 No attempt has been made to disguise AI involvement. Where later testing led
 to changes, those changes and their motivation are recorded above and in the
 chronological evidence.
-
-Suggested declaration for the submission form:
-
-> I used OpenAI Codex/ChatGPT for research assistance, algorithm explanation,
-> brainstorming, implementation and debugging, profiling and validation
-> suggestions, notebook organisation, and documentation. I retained the
-> relevant conversations and intermediate source versions, documented later
-> changes to AI-assisted code, tested the resulting work, and take
-> responsibility for the submitted `v2-5-submit.py`.
